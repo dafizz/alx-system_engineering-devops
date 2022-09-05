@@ -15,5 +15,6 @@ Write a script that prints “Hello, World”, followed by a new line to the sta
 14. Display lines containing the pattern “root” from the file /etc/passwd.
 15. Display the number of lines that contain the pattern “bin” in the file /etc/passed.
 16. Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
-17. Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.   
+17. Display all the lines in the file /etc/passwd that do not contain the pattern “bin".
+18. 18. Letters only please   
 
